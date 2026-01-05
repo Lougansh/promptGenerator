@@ -193,3 +193,4 @@ if st.button("⚡ GENERATE PROFESSIONAL PROMPT"):
             st.error(f"⚠️ Erro ao acessar o cérebro da IA: {e}")
 
 st.markdown("<div class='footer'>Nexus Influencer Factory v1.0 | Made for High Performance Teams</div>", unsafe_allow_html=True)
+
